@@ -1,1 +1,8 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Amir Travelers logo">
+ <circle cx="60" cy="60" r="55" fill="#0a172b" stroke="#c9ad72" stroke-width="2.5"/>
+ <circle cx="60" cy="60" r="46" fill="none" stroke="#c9ad72" stroke-width="1" opacity=".8"/>
+ <path d="M37 52 60 39 83 52v28H37z" fill="none" stroke="#e6d2a0" stroke-width="2.2" stroke-linejoin="round"/>
+ <path d="M44 58h32l-4-9H48z" fill="none" stroke="#e6d2a0" stroke-width="2" stroke-linejoin="round"/>
+ <circle cx="48" cy="70" r="3" fill="#e6d2a0"/><circle cx="72" cy="70" r="3" fill="#e6d2a0"/>
+ <path d="M49 81h22M60 19v8M17 60h8M95 60h8" stroke="#c9ad72" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
